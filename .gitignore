@@ -1,0 +1,7 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+data/
+
+.env.db
