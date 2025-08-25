@@ -1,7 +1,8 @@
 # Ambientes virtuais
 venv/
 env/
-.venv/
-data/
+
+
 
 .env.db
+reset_docker.ps1

@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS publicacoes (
+  id   SERIAL PRIMARY KEY,
+  data DATE NOT NULL,
+  link TEXT NOT NULL UNIQUE
+);
